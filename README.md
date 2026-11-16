@@ -14,4 +14,4 @@ up, signing in, the first-run warning, removal) and a `THIRD-PARTY-NOTICES.txt` 
 open-source components both programs are built from — `README.txt` beside the programs in the
 Windows zip.
 
-Windows is at 0.1.0. macOS and Linux follow.
+Windows is at 0.2.0. macOS and Linux follow.
